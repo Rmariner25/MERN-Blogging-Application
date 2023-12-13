@@ -25,7 +25,7 @@ A feature rich MERN stack based application allowing users to read, share, comme
     npm start
    ```
 
-IMPORTANT: Do not forget to configure the `config.env` file inside the `Backend -> Config` folder
+IMPORTANT: Do not forget to configure the `config.env` file inside the Backend -> Config folder
 
 ## Screenshots
 
